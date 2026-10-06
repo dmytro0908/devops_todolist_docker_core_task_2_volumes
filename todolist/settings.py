@@ -69,7 +69,7 @@ DATABASES = {
 
     # "default": {
     #     "ENGINE": "django.db.backends.mysql",
-    #     "HOST": "FVFFM3F5Q05N", 
+    #     "HOST": '172.17.0.2', 
     #     "PORT": 3306,
     #     "NAME":"tododb",
     #     "PASSWORD": "my-secret-pw", 
